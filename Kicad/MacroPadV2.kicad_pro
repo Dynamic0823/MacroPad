@@ -344,7 +344,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "aarohanl"
+      "mpadfps"
     ],
     "pinned_symbol_libs": []
   },
