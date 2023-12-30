@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "mpadfps")(type "KiCad")(uri "${KIPRJMOD}/mpadfps.pretty")(options "")(descr ""))
+  (lib (name "kbpf")(type "KiCad")(uri "/home/aaron/KicadLibs/kbpf.pretty")(options "")(descr ""))
 )

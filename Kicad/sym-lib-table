@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "symbols")(type "KiCad")(uri "/home/aaron/CustomKeyboard/symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "macropad_parts")(type "KiCad")(uri "${KIPRJMOD}/macropad_parts.kicad_sym")(options "")(descr ""))
+)
