@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/aaron/MacroPad/Kicad/MacroPadV2.kicad_sch</source>
+    <date>Tue 16 Jan 2024 10:51:01 AM EST</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MacroPadV2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">311-1101-2-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="311-1101-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15f4cd51-4335-4f6d-b953-1846e2746f61</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">311-1101-2-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="311-1101-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>966d3531-8e61-4aa0-9aa1-abbb855fe56f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">3372-MT05B104M500BDTR-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="3372-MT05B104M500BDTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fc49246-3e69-4611-8032-0a0f513b0b7e</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">3372-MT05B104M500BDTR-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="3372-MT05B104M500BDTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30e2cc44-d2f5-4268-b3ed-33b9e0fb3dc9</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">3372-MT05B104M500BDTR-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="3372-MT05B104M500BDTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c89f281f-928b-42c8-ae6b-92fe9e55787f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1276-1003-2-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="1276-1003-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3a5eca7-1347-4d2d-9e8a-beff88e7070b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1276-1244-2-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="1276-1244-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f6a2576-7eda-4cc3-ad3f-7d13cce28fc2</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1276-1244-2-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="1276-1244-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9abfb71-3bd6-4099-aef3-e3f4f26aabee</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1276-1244-2-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DigikeyPN" value="1276-1244-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2b80d08-fdcf-4efb-ba5f-f8596505e1de</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>947d10c1-0ad7-447d-ba3a-9ef8b2940067</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eee00c18-2096-460f-80b2-75ddeb4f827e</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01a512be-f3aa-42ea-bb72-0711065d2444</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f520b41-4729-4905-818e-2685723ec283</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfd0530a-d47d-4530-a252-5fc5c2deef55</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>777a4b19-8af9-4f83-9317-d18d7a7691ae</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7fc7045-7a9b-48d8-a1d1-7a5cb0a3a646</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b00a4797-8945-436b-b13c-192fd993f935</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84724f18-a0f2-4d96-946b-d4d5313d41ad</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df3d6674-0000-4b3e-8f25-9de50f60df66</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9afce7e-2c96-49d9-9f2c-8c959dabef4f</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>TS4148 RBG</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="1N4148WX-TP" description=""/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa59fc12-1055-4903-9cb4-28bd0750f3b9</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">1801-TS4148RBGTR-ND</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="DigikeyPN" value="1801-TS4148RBGTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcc19a31-b8ac-4272-b56b-6a2608652fcf</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>OZCH</value>
+      <footprint>mpadfps:OZCHFusr</footprint>
+      <fields>
+        <field name="DigikeyPN">507-1792-2-ND</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="DigikeyPN" value="507-1792-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a627d46e-0900-4655-b086-793015e4973f</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>M3Hole</value>
+      <footprint>mpadfps:M3Hole</footprint>
+      <libsource lib="" part="M3Hole_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76c01e53-6ce0-4446-aaf5-d15c719caa0a</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M3Hole</value>
+      <footprint>mpadfps:M3Hole</footprint>
+      <libsource lib="macropad_parts" part="M3Hole" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f4d15e1-afb1-47f2-957e-e8eb372b47bb</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>M3Hole</value>
+      <footprint>mpadfps:M3Hole</footprint>
+      <libsource lib="" part="M3Hole_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9428d68-69f8-4d50-8612-688fc22c5f5f</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>M3Hole</value>
+      <footprint>mpadfps:M3Hole</footprint>
+      <libsource lib="" part="M3Hole_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a23e1ee-6713-4d28-a03c-eb4defb43792</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>3PinJump</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="macropad_parts" part="3PinJump" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4226cb2-fde8-4994-b930-cfa820518d91</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>3PinJump</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="macropad_parts" part="3PinJump" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90a28740-2fe0-48a3-ba03-6a9f63f0ed35</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>GCT-USB4085</value>
+      <footprint>mpadfps:USB4085-GF-A</footprint>
+      <fields>
+        <field name="DigikeyPN">2073-USB4085-GF-ATR-ND</field>
+      </fields>
+      <libsource lib="symbols" part="GCT-USB4085" description=""/>
+      <property name="DigikeyPN" value="2073-USB4085-GF-ATR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>491fd9db-23e7-4577-b15c-4d8040ab5c6a</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>3PinJump</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="macropad_parts" part="3PinJump" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac4185bc-d30f-4d36-9cae-bd9b83fd3fc7</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>4PinJump</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="macropad_parts" part="4PinJump" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f0730ed-b997-4020-b7fe-ff5469158c3c</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>4PinJump</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="macropad_parts" part="4PinJump" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f86fab6-5798-4165-80e5-5ef189227ffc</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>4PinJump</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="macropad_parts" part="4PinJump" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39b32332-d6eb-4066-9c5a-784c77cb509f</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88b426b6-ee79-43b0-b8b7-fe72a3d0a10e</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfd36925-b88e-46ab-8cd2-793e16d38c06</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64f6acad-32b8-4192-b3e6-056620a581d8</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34f8a087-ff65-4521-b555-8cf8edf09e46</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1aade1a-2025-4f90-b011-e36643e9bbe3</tstamps>
+    </comp>
+    <comp ref="K6">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96ac8998-1100-416f-a542-9a1ef7a1fc33</tstamps>
+    </comp>
+    <comp ref="K7">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad8c1e29-c892-4127-a257-0fa49ddc83a5</tstamps>
+    </comp>
+    <comp ref="K8">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46ecb36d-9050-4af6-8757-238bc56537a0</tstamps>
+    </comp>
+    <comp ref="K9">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b64a5b12-4035-4bc3-8410-cc2a204bcf5d</tstamps>
+    </comp>
+    <comp ref="K10">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>148e6a71-3c62-4f0c-8af8-4a370d3fa273</tstamps>
+    </comp>
+    <comp ref="K11">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9234233-3b4e-41ee-aa32-056319d85ee6</tstamps>
+    </comp>
+    <comp ref="K12">
+      <value>KSW</value>
+      <footprint>keyboard_fp:CherryMx</footprint>
+      <fields>
+        <field name="DigikeyPN">CH197-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="KSW" description=""/>
+      <property name="DigikeyPN" value="CH197-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1a73947-3f9d-453f-a7e2-b4adc38bd4d9</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805JT10K0TR-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805JT10K0TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9066298-41e4-4caf-a65c-f7a0a32ebb1c</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805JT10K0TR-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805JT10K0TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb56ce81-360a-4b54-a5a1-302659570758</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805JT5K10TR-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805JT5K10TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81ca029c-8c47-4c83-8051-ac1c9a59c47e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805JT10K0TR-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805JT10K0TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4d78619-daa0-4b02-8f4a-1001c3382616</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805JT5K10TR-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805JT5K10TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>290e90f4-c0b1-4137-87f3-55439afc340d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805FT1K00</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805FT1K00"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ef03ecb-2933-4906-bb74-41293992f24f</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805FT1K00</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805FT1K00"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0808f191-bcf0-43c8-9924-c61dde1cf142</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805FT1K00</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805FT1K00"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a714025c-41f1-4bab-9d46-05eed70a6aec</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805FT1K00</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805FT1K00"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b264b2b4-1db2-422f-8160-293887ffdb08</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805JT10K0TR-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805JT10K0TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1548499-1b3c-4441-8fea-184771304cbf</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="DigikeyPN">RMCF0805JT10K0TR-ND</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="DigikeyPN" value="RMCF0805JT10K0TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d6ec6aa-617b-4678-90e6-873c6f2ea965</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SWITCH_TACTILE_SPST-NO_0.05A_12V</value>
+      <footprint>mpadfps:PTS645-G</footprint>
+      <fields>
+        <field name="DigikeyPN">CKN9085TR-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="SWITCH_TACTILE_SPST-NO_0.05A_12V" description=""/>
+      <property name="DigikeyPN" value="CKN9085TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79b4f396-8fb9-4974-afb0-05b269225ac8</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SWITCH_TACTILE_SPST-NO_0.05A_12V</value>
+      <footprint>mpadfps:PTS645-G</footprint>
+      <fields>
+        <field name="DigikeyPN">CKN9085TR-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="SWITCH_TACTILE_SPST-NO_0.05A_12V" description=""/>
+      <property name="DigikeyPN" value="CKN9085TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44ad175a-e2f0-4403-9ab9-7b9227457cd7</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>mpadfps:PEC11H-RotaryEncoderSwitch</footprint>
+      <fields>
+        <field name="DigikeyPN">118-PEC11H-4220F-S0024-ND</field>
+      </fields>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="DigikeyPN" value="118-PEC11H-4220F-S0024-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5ca0448-91a2-4f4c-b6cd-a4efd93ae74d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>STM32F103C8T6TR</value>
+      <footprint>macrofp:LQFP48</footprint>
+      <fields>
+        <field name="DigikeyPN">497-17666-2-ND</field>
+      </fields>
+      <libsource lib="symbols" part="STM32F103C8T6TR" description=""/>
+      <property name="DigikeyPN" value="497-17666-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed19cec0-5b88-4d32-84ea-351aa415758d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AP2114HA-3.3TRG1</value>
+      <footprint>keyboard_fp:SOT-223_DIO-L</footprint>
+      <fields>
+        <field name="DigikeyPN">AP2114HA-3.3TRG1DITR-ND</field>
+      </fields>
+      <libsource lib="macropad_parts" part="AP2114HA-3.3TRG1" description=""/>
+      <property name="DigikeyPN" value="AP2114HA-3.3TRG1DITR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b2c5491-5467-4957-a38b-f411d59a5279</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>TSX-3225_16.0000MF18X-AC6</value>
+      <footprint>mpadfps:TSX-3226</footprint>
+      <fields>
+        <field name="DigikeyPN">SER4372TR-ND</field>
+        <field name="Field4">OSC16MHz</field>
+      </fields>
+      <libsource lib="macropad_parts" part="TSX-3225_16.0000MF18X-AC6" description="OSC16MHz"/>
+      <property name="Field4" value="OSC16MHz"/>
+      <property name="DigikeyPN" value="SER4372TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MacroPadV2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc1f0c22-12b6-4b83-981d-871810c0d90d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="M3Hole_1">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">M3Hole_1</field>
+        <field name="Footprint">mpadfps:M3Hole</field>
+      </fields>
+    </libpart>
+    <libpart lib="" part="M3Hole_2">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">M3Hole_2</field>
+        <field name="Footprint">mpadfps:M3Hole</field>
+      </fields>
+    </libpart>
+    <libpart lib="" part="M3Hole_3">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">M3Hole_3</field>
+        <field name="Footprint">mpadfps:M3Hole</field>
+      </fields>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="RotaryEncoder_Switch">
+      <description>Rotary encoder, dual channel, incremental quadrate outputs, with switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">RotaryEncoder_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="macropad_parts" part="3PinJump">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">3PinJump</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+        <pin num="3" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="macropad_parts" part="4PinJump">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">4PinJump</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+        <pin num="3" name="" type="unspecified"/>
+        <pin num="4" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="macropad_parts" part="AP2114HA-3.3TRG1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2114HA-3.3TRG1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="bidirectional"/>
+        <pin num="2" name="GND" type="bidirectional"/>
+        <pin num="3" name="VOUT" type="bidirectional"/>
+        <pin num="4" name="GND" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="macropad_parts" part="KSW">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">KSW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="macropad_parts" part="M3Hole">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">M3Hole</field>
+        <field name="Footprint">mpadfps:M3Hole</field>
+      </fields>
+    </libpart>
+    <libpart lib="macropad_parts" part="SWITCH_TACTILE_SPST-NO_0.05A_12V">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SWITCH_TACTILE_SPST-NO_0.05A_12V</field>
+        <field name="Footprint">mpadfps:PTS645-G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+        <pin num="3" name="" type="unspecified"/>
+        <pin num="4" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="macropad_parts" part="TSX-3225_16.0000MF18X-AC6">
+      <description>OSC16MHz</description>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">TSX-3225_16.0000MF18X-AC6</field>
+        <field name="Footprint">mpadfps:TSX-3226</field>
+        <field name="Field4">OSC16MHz</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="input"/>
+        <pin num="2" name="GND" type="bidirectional"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="GND" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="symbols" part="1N4148WX-TP">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148WX-TP</field>
+        <field name="Footprint">mpadfps:sod323</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="symbols" part="GCT-USB4085">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">GCT-USB4085</field>
+        <field name="Footprint">mpadfps:USB4085-GF-A</field>
+        <field name="DigikeyPN">2073-USB4085-GF-ATR-ND</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="input"/>
+        <pin num="A4" name="VBUS" type="input"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+1" type="bidirectional"/>
+        <pin num="A7" name="D-1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="input"/>
+        <pin num="A12" name="GND" type="input"/>
+        <pin num="B1" name="GND" type="input"/>
+        <pin num="B4" name="VBUS" type="input"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+2" type="bidirectional"/>
+        <pin num="B7" name="D-2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="input"/>
+        <pin num="B12" name="GND" type="input"/>
+        <pin num="SHELL" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="symbols" part="STM32F103C8T6TR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F103C8T6TR</field>
+        <field name="Footprint">macrofp:LQFP48</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="input"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="OSC_IN" type="input"/>
+        <pin num="6" name="OSC_OUT" type="output"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="input"/>
+        <pin num="9" name="VDDA" type="input"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS_1" type="bidirectional"/>
+        <pin num="24" name="VDD_1" type="bidirectional"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="VSS_2" type="bidirectional"/>
+        <pin num="36" name="VDD_2" type="bidirectional"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="bidirectional"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS_3" type="bidirectional"/>
+        <pin num="48" name="VDD_3" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="macropad_parts">
+      <uri>/home/aaron/MacroPad/Kicad/macropad_parts.kicad_sym</uri>
+    </library>
+    <library logical="symbols">
+      <uri>/home/aaron/CustomKeyboard/symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="unspecified"/>
+      <node ref="J2" pin="1" pintype="unspecified"/>
+      <node ref="J4" pin="1" pintype="unspecified"/>
+      <node ref="J6" pin="1" pintype="unspecified"/>
+      <node ref="J7" pin="1" pintype="unspecified"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="SW3" pin="S1" pinfunction="S1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VBAT" pintype="input"/>
+      <node ref="U1" pin="24" pinfunction="VDD_1" pintype="bidirectional"/>
+      <node ref="U1" pin="36" pinfunction="VDD_2" pintype="bidirectional"/>
+      <node ref="U1" pin="48" pinfunction="VDD_3" pintype="bidirectional"/>
+      <node ref="U1" pin="9" pinfunction="VDDA" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J4" pin="3" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="VIN" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="BOOT0">
+      <node ref="J2" pin="2" pintype="unspecified"/>
+      <node ref="J5" pin="1" pintype="unspecified"/>
+      <node ref="U1" pin="44" pinfunction="BOOT0" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="BOOT1">
+      <node ref="J1" pin="2" pintype="unspecified"/>
+      <node ref="J5" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="20" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="COL0">
+      <node ref="K1" pin="1" pintype="bidirectional"/>
+      <node ref="K2" pin="1" pintype="bidirectional"/>
+      <node ref="K3" pin="1" pintype="bidirectional"/>
+      <node ref="K4" pin="1" pintype="bidirectional"/>
+      <node ref="U1" pin="14" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="COL1">
+      <node ref="K5" pin="1" pintype="bidirectional"/>
+      <node ref="K6" pin="1" pintype="bidirectional"/>
+      <node ref="K7" pin="1" pintype="bidirectional"/>
+      <node ref="K8" pin="1" pintype="bidirectional"/>
+      <node ref="U1" pin="15" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="COL2">
+      <node ref="K10" pin="1" pintype="bidirectional"/>
+      <node ref="K11" pin="1" pintype="bidirectional"/>
+      <node ref="K12" pin="1" pintype="bidirectional"/>
+      <node ref="K9" pin="1" pintype="bidirectional"/>
+      <node ref="U1" pin="16" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="D+">
+      <node ref="J3" pin="A6" pinfunction="D+1" pintype="bidirectional"/>
+      <node ref="J3" pin="B6" pinfunction="D+2" pintype="bidirectional"/>
+      <node ref="U1" pin="33" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="D-">
+      <node ref="J3" pin="A7" pinfunction="D-1" pintype="bidirectional"/>
+      <node ref="J3" pin="B7" pinfunction="D-2" pintype="bidirectional"/>
+      <node ref="U1" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="ENCA">
+      <node ref="SW3" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="PC14" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="ENCB">
+      <node ref="SW3" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="PC15" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="ENCSW">
+      <node ref="SW3" pin="S2" pinfunction="S2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J3" pin="A1" pinfunction="GND" pintype="input"/>
+      <node ref="J3" pin="A12" pinfunction="GND" pintype="input"/>
+      <node ref="J3" pin="B1" pinfunction="GND" pintype="input"/>
+      <node ref="J3" pin="B12" pinfunction="GND" pintype="input"/>
+      <node ref="J3" pin="SHELL" pinfunction="GND" pintype="input"/>
+      <node ref="J4" pin="2" pintype="unspecified"/>
+      <node ref="J6" pin="4" pintype="unspecified"/>
+      <node ref="J7" pin="4" pintype="unspecified"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="unspecified"/>
+      <node ref="SW1" pin="4" pintype="unspecified"/>
+      <node ref="SW2" pin="3" pintype="unspecified"/>
+      <node ref="SW2" pin="4" pintype="unspecified"/>
+      <node ref="SW3" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="VSS_1" pintype="bidirectional"/>
+      <node ref="U1" pin="35" pinfunction="VSS_2" pintype="bidirectional"/>
+      <node ref="U1" pin="47" pinfunction="VSS_3" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="VSSA" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="X1" pin="2" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="X1" pin="4" pinfunction="GND" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="MODE">
+      <node ref="SW1" pin="1" pintype="unspecified"/>
+      <node ref="SW1" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="NRST">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J5" pin="4" pintype="unspecified"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pintype="unspecified"/>
+      <node ref="SW2" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="OSC_IN" pintype="input"/>
+      <node ref="X1" pin="1" pinfunction="In" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="OSC_OUT" pintype="output"/>
+      <node ref="X1" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="18" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pintype="bidirectional"/>
+      <node ref="K1" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pintype="bidirectional"/>
+      <node ref="K2" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pintype="bidirectional"/>
+      <node ref="K3" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pintype="bidirectional"/>
+      <node ref="K4" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pintype="bidirectional"/>
+      <node ref="K5" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pintype="bidirectional"/>
+      <node ref="K6" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pintype="bidirectional"/>
+      <node ref="K7" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pintype="bidirectional"/>
+      <node ref="K8" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(D9-Pad1)">
+      <node ref="D9" pin="1" pintype="bidirectional"/>
+      <node ref="K9" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pintype="bidirectional"/>
+      <node ref="K10" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pintype="bidirectional"/>
+      <node ref="K11" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pintype="bidirectional"/>
+      <node ref="K12" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pintype="unspecified"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3" pintype="unspecified"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(J3-PadA5)">
+      <node ref="J3" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(J3-PadB5)">
+      <node ref="J3" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="ROW0">
+      <node ref="D1" pin="2" pintype="bidirectional"/>
+      <node ref="D5" pin="2" pintype="bidirectional"/>
+      <node ref="D9" pin="2" pintype="bidirectional"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="ROW1">
+      <node ref="D10" pin="2" pintype="bidirectional"/>
+      <node ref="D2" pin="2" pintype="bidirectional"/>
+      <node ref="D6" pin="2" pintype="bidirectional"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="ROW2">
+      <node ref="D11" pin="2" pintype="bidirectional"/>
+      <node ref="D3" pin="2" pintype="bidirectional"/>
+      <node ref="D7" pin="2" pintype="bidirectional"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="ROW3">
+      <node ref="D12" pin="2" pintype="bidirectional"/>
+      <node ref="D4" pin="2" pintype="bidirectional"/>
+      <node ref="D8" pin="2" pintype="bidirectional"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="SCL">
+      <node ref="J7" pin="3" pintype="unspecified"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="SDA">
+      <node ref="J7" pin="2" pintype="unspecified"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="SWCLK">
+      <node ref="J6" pin="3" pintype="unspecified"/>
+      <node ref="U1" pin="38" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="SWDIO">
+      <node ref="J6" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="TraceSWO">
+      <node ref="J5" pin="3" pintype="unspecified"/>
+      <node ref="U1" pin="39" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="VBUS">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="A4" pinfunction="VBUS" pintype="input"/>
+      <node ref="J3" pin="A9" pinfunction="VBUS" pintype="input"/>
+      <node ref="J3" pin="B4" pinfunction="VBUS" pintype="input"/>
+      <node ref="J3" pin="B9" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="45" name="unconnected-(J3-PadA8)">
+      <node ref="J3" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(J3-PadB8)">
+      <node ref="J3" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="unconnected-(U1-Pad29)">
+      <node ref="U1" pin="29" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="unconnected-(U1-Pad30)">
+      <node ref="U1" pin="30" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U1-Pad31)">
+      <node ref="U1" pin="31" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(U1-Pad34)">
+      <node ref="U1" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="unconnected-(U1-Pad40)">
+      <node ref="U1" pin="40" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U1-Pad43)">
+      <node ref="U1" pin="43" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U1-Pad45)">
+      <node ref="U1" pin="45" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(U1-Pad46)">
+      <node ref="U1" pin="46" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
